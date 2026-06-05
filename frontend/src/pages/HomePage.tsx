@@ -119,7 +119,7 @@ export function HomePage() {
       <header className="topbar">
         <div className="brand">
           <strong>Project TMR</strong>
-          <span>음식 카테고리와 주종으로 고르는 오늘의 안주</span>
+          <span>음식 카테고리와 주종으로 고르는 오늘의 안주 :)</span>
         </div>
         <button
           className="location-button"
