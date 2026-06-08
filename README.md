@@ -98,7 +98,7 @@ npm run dev -- --host 127.0.0.1
 ## 접속 주소 / URLs
 
 - 프론트엔드 / Frontend: https://project-tmr-0605.vercel.app/
-- 백엔드 API / Backend API: https://project-tmr-nine.vercel.app//api/recommendation
+- 백엔드 API / Backend API: https://project-tmr-nine.vercel.app/api/recommendation
 
 ## Git Bash 실행 명령어 / Git Bash Commands
 
