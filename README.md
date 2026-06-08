@@ -56,8 +56,8 @@ D:\Project_TMR\backend\.env
 ```
 
 ```env
-KMA_SERVICE_KEY=your_kma_service_key
-KAKAO_REST_API_KEY=your_kakao_rest_api_key
+KMA_SERVICE_KEY=secured_kma_service_key
+KAKAO_REST_API_KEY=secured_kakao_rest_api_key
 ```
 
 프론트엔드 환경 파일 / Frontend environment file:
@@ -67,8 +67,8 @@ D:\Project_TMR\frontend\.env
 ```
 
 ```env
-VITE_API_BASE_URL=http://127.0.0.1:3000
-VITE_KAKAO_JAVASCRIPT_KEY=your_kakao_javascript_key
+VITE_API_BASE_URL=https://project-tmr-nine.vercel.app
+VITE_KAKAO_JAVASCRIPT_KEY=secured_kakao_javascript_key
 ```
 
 ## 실행 방법 / How to Run
@@ -97,8 +97,8 @@ npm run dev -- --host 127.0.0.1
 
 ## 접속 주소 / URLs
 
-- 프론트엔드 / Frontend: http://127.0.0.1:5173
-- 백엔드 API / Backend API: http://127.0.0.1:3000/api/recommendation
+- 프론트엔드 / Frontend: https://project-tmr-0605.vercel.app/
+- 백엔드 API / Backend API: https://project-tmr-nine.vercel.app//api/recommendation
 
 ## Git Bash 실행 명령어 / Git Bash Commands
 
